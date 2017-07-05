@@ -1,11 +1,21 @@
-## Welcome to GitHub Pages
 
-c'est un test. 
+## Welcome
 
+c'est un site fait pour pouvoir comprendre
 
-# il est utilisé pour comprendre comment utiliser le github
+Markdown
 
-**Bold** and _Italic_ and `Code` text
+# Header 1
+## Header 2
+### Header 3
 
-[github](https://github.com) 
+- Bulleted
+- List
 
+1. Numbered
+2. List
+
+**comment gérer son code sur** [_github_](https://github.com)
+[logo](https://assets-cdn.github.com/images/modules/open_graph/github-mark.png)
+
+### Support or Contact
