@@ -1,9 +1,8 @@
 ## Welcome
 
-c'est un site fait pour pouvoir comprendre
+c'est un site fait pour pouvoir comprendre l'utilisation de github
 
 ### Markdown
-```markdown
 
 
 # Header 1
@@ -16,9 +15,5 @@ c'est un site fait pour pouvoir comprendre
 1. Numbered
 2. List
 
-**comment gérer son code sur** [_github_](https://github.com)
-[logo](https://assets-cdn.github.com/images/modules/open_graph/github-mark.png)
+**comment gérer son code sur** [github](https://github.com)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
